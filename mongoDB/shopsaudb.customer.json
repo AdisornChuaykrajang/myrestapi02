@@ -1,0 +1,96 @@
+[
+  {
+    "_id": {
+      "$oid": "655d87baedd9bf76b5dbe996"
+    },
+    "firstname": "สมศรี",
+    "lastname": "หวีผม",
+    "phonenumber": {
+      "$numberLong": "65467325328"
+    },
+    "email": "somsri@weepom.com",
+    "gender": "F",
+    "Status": true,
+    "createdAt": {
+      "$date": "2023-11-22T04:46:50.392Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T04:50:25.027Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d87db53faa116a244bb2b"
+    },
+    "firstname": "ยินดี",
+    "lastname": "ปรีดา",
+    "phonenumber": 123456789,
+    "email": "yindee@preeda.com",
+    "gender": "F",
+    "Status": true,
+    "createdAt": {
+      "$date": "2023-11-22T04:47:23.820Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T04:47:23.820Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d880a53faa116a244bb2d"
+    },
+    "firstname": "ชนะ",
+    "lastname": "เสมอ",
+    "phonenumber": 123456489,
+    "email": "chana@samer.com",
+    "gender": "M",
+    "Status": true,
+    "createdAt": {
+      "$date": "2023-11-22T04:48:10.888Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T04:48:10.888Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d883653faa116a244bb2f"
+    },
+    "firstname": "มานะ",
+    "lastname": "สระอา",
+    "phonenumber": 123434129,
+    "email": "mana@saraar.com",
+    "gender": "M",
+    "Status": true,
+    "createdAt": {
+      "$date": "2023-11-22T04:48:54.240Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T04:48:54.240Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655d885853faa116a244bb31"
+    },
+    "firstname": "มานี",
+    "lastname": "ศรีสมปอง",
+    "phonenumber": {
+      "$numberLong": "6548932147"
+    },
+    "email": "manee@srisompong.com",
+    "gender": "F",
+    "Status": true,
+    "createdAt": {
+      "$date": "2023-11-22T04:49:28.817Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T04:49:28.817Z"
+    },
+    "__v": 0
+  }
+]

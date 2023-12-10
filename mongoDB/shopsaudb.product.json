@@ -1,0 +1,82 @@
+[
+  {
+    "_id": {
+      "$oid": "655cc60f43aac8027d969452"
+    },
+    "Name": "ยางลบ",
+    "Price": 5,
+    "Quantity": 20,
+    "Status": true,
+    "createdAt": {
+      "$date": "2023-11-21T15:00:31.797Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-21T15:00:31.797Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655cc62f43aac8027d969454"
+    },
+    "Name": "ดินสอ",
+    "Price": 10,
+    "Quantity": 50,
+    "Status": true,
+    "createdAt": {
+      "$date": "2023-11-21T15:01:03.397Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-21T15:01:03.397Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655cc63d43aac8027d969456"
+    },
+    "Name": "ปากกา",
+    "Price": 15,
+    "Quantity": 120,
+    "Status": true,
+    "createdAt": {
+      "$date": "2023-11-21T15:01:17.308Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-21T15:01:17.308Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655cc64c43aac8027d969458"
+    },
+    "Name": "ไม้บรรทัด",
+    "Price": 10,
+    "Quantity": 7,
+    "Status": true,
+    "createdAt": {
+      "$date": "2023-11-21T15:01:32.140Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-21T15:01:32.140Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655cc67c43aac8027d96945a"
+    },
+    "Name": "สีไม้",
+    "Price": 30,
+    "Quantity": 17,
+    "Status": true,
+    "createdAt": {
+      "$date": "2023-11-21T15:02:20.438Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-22T04:24:50.186Z"
+    },
+    "__v": 0
+  }
+]
